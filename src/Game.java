@@ -1,7 +1,5 @@
-
 public class Game {
     private int totalScore;
-//    private Frame currentFrame;
     private Frame[] frames = new Frame[10];
     
     public Game() {
@@ -11,10 +9,6 @@ public class Game {
     public void setTotalScore(int tScore) {
         totalScore = tScore;
     }
-    
-//    public void setCurrentFrame(Frame currFrame) {
-//        currentFrame = currFrame;
-//    }
     
     public void setCurrentFrame(int idx, Frame currFrame) {
       frames[idx] = currFrame;
