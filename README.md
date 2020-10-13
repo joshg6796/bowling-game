@@ -12,4 +12,4 @@ After compiling and running the main class successfully, the command line should
 After inputting a bowling move, a table will be displayed in the command line with the scoreboard. The scoreboard is in markup table format so you can directly copy and paste it into a markup editor and visualize the scoreboard as a table.
 
 ## Architecture
-Inplemented bowling game using Java MVC Architecture.
+Implemented bowling game using Java MVC Architecture.
