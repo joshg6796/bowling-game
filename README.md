@@ -1,13 +1,11 @@
 # Bowling Game
 
 ## How to Compile and Run Bowling Game Code
-1. Clone the git bundle by running 
+1. Clone the git repository
+
+2. After cloning the repository, open the command line and go to
     ```
-    git clone PATH_TO_DOWNLOADED_BUNDLE -b master
-    ```
-2. After cloning the folder, open the command line and go to
-    ```
-    PATH_TO_DOWNLOADED_BUNDLE/src
+    ~/git/bowling-game/src
     ```
 3. Run the command
     ```
