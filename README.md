@@ -1,5 +1,7 @@
 # Bowling Game
 
+Bowling game simulation used to track the score of a single game of bowling. The game will process the result of each ball bowled and calculate the correct score, including spares and strikes. The game will also validate the input that the user enters.
+
 ## How to Compile and Run Bowling Game Code
 1. Clone the git repository
 
